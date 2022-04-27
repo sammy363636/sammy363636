@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sammy363636
+- 👋 Hi, I’m Samuel Zemen
 - 👀 I’m interested in ...Data Structures
 - 🌱 I’m currently learning ...Java,C
 - 💞️ I’m looking to collaborate on ...
